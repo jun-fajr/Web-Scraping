@@ -2,12 +2,11 @@
 
 ### 1. Install python 3
 
-you can download from python site or via microsoft store
+you can download from [python site](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe) or via microsoft store
 
 ### 2. Run code
 
-run with terminal
-`python main.py`
+run with terminal or cmd
 
 ```python
 python main.py
